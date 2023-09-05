@@ -6,3 +6,5 @@ function solution(my_string, indices) {
     }
     console.log(answer)
 }
+
+console.log('abc')
