@@ -1,10 +1,3 @@
-function solution(my_string, indices) {
-    let answer = my_string;
-    
-    for(let i = 0; i < indices.length; i++){
-        answer[indices[i]] = 0
-    }
-    console.log(answer)
-}
+let a = 1298572  => [1,2,9,8,5,7,2]
 
-console.log('abc')
+a.toString() => '12312512' .split('') ['1','2','5','7']
